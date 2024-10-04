@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm YanRu</h1>
 <h3 align="center">A work-in-progress Data Scientist (And Physicist in my free time!)</h3>
 
