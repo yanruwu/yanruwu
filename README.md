@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F1759768-data-scientist-word-banner&psig=AOvVaw2ikuaEgsFWnQ0sXW0ENq3T&ust=1728112246150000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDg4PWV9IgDFQAAAAAdAAAAABAY)](your GitHub link)
+[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F1759768-data-scientist-word-banner&psig=AOvVaw2ikuaEgsFWnQ0sXW0ENq3T&ust=1728112246150000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDg4PWV9IgDFQAAAAAdAAAAABAY](https://static.vecteezy.com/system/resources/thumbnails/000/701/690/small/abstract-polygonal-banner-background.jpg))](your GitHub link)
 
 # Hola! 👋🏻
 
