@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm YanRu</h1>
-<h3 align="center">A work-in-progress Data Scientist (And Physicist in my free time!)</h3>
+<h3 align="center">Data Scientist, AI Developer (And Physicist in my free time!)</h3>
 
 <!-- GitHub Stats Section -->
 <p align="center">
