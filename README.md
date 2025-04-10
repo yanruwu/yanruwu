@@ -3,6 +3,27 @@
 <h1 align="center">Hi 👋, I'm YanRu</h1>
 <h3 align="center">Data Scientist, AI Developer (And Physicist in my free time!)</h3>
 
+### 🌱 Currently...
+I’m working as a **Data Scientist & AI Developer** at the Innovation Lab at [INECO](https://www.ineco.com/), where I design AI-powered solutions to real challenges.  
+Outside of work, I keep learning and building personal projects that explore everything from generative models to interactive data storytelling.
+
+---
+
+### 🧠 Areas I love exploring
+- Applied Artificial Intelligence  
+- Natural Language Processing (NLP)  
+- Computer Vision  
+- Generative Models  
+- Data Visualization & Storytelling
+
+---
+### 📂 Featured Projects
+- 🔍 [`Foodscope`](#): Computer Vision and NLP webapp that recommends recipes based on what it sees in your fridge!
+
+*Want to see more? Check out my pinned repositories 👇*
+
+---
+
 <!-- GitHub Stats Section -->
 <p align="center">
   <a href="#">
